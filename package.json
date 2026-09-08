@@ -1,0 +1,14 @@
+{
+  "name": "lantern",
+  "version": "0.1.0",
+  "description": "Lantern — a customizable, fast web browser",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Stubbyfare",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}

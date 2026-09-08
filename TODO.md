@@ -1,0 +1,7 @@
+- [ ] Improve secure navigation and sandboxing
+- [ ] Add fast native page rendering / performance improvements
+- [ ] Add extension/app store and secure install flow
+- [ ] Add profile and customization options
+- [ ] Add sync (bookmarks, history, settings)
+- [ ] Add automated tests and CI
+- [ ] Create installer packages (Windows/macOS/Linux)
